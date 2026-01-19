@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="40%"/><br> 
 
-<h2>👋 Hi, I'm Ahmed AbouDeif</h2>
+<h2>👋 Hi, I'm Ahmed Abo Deif</h2>
 <h3>Junior Penetration Tester | Cybersecurity Enthusiast</h3>
 
 <details>
