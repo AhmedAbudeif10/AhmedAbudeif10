@@ -6,6 +6,8 @@
 
 <h2>👋 Hi, I'm Ahmed Abo Deif</h2>
 <h3>Junior Penetration Tester | Cybersecurity Enthusiast</h3>
+<p><em>Focused on Web Application Security & Bug Bounty</em></p>
+
 
 <details open>
 <p><strong> <summary> 💻 Currently Hacking & Learning </summary> </strong></p>
