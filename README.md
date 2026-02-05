@@ -4,7 +4,7 @@
 <img src="https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg" width="40%"/><br>
 
 
-<h2>👋 Hi, I'm Ahmed Abo Deif</h2>
+<h2>👋 Hi, I'm Ahmed Abu Deif</h2>
 <h3>Junior Penetration Tester | Cybersecurity Enthusiast</h3>
 <p><em>Focused on Web Application Security & Bug Bounty</em></p>
 
